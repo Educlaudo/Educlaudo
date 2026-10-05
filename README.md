@@ -29,7 +29,7 @@ I'm a brazilian student of 🇧🇷 high school.
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) **⚫ C** - Intermediário ██████████ 70%
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) **🟡 C#** - Básico ███░░░░░░░ 30%
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white) **🟡 C#** - Básico ███░░░░░░░ 30%
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **🟨 JavaScript** - Básico ██░░░░░░░░ 15%
 
